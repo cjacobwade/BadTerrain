@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 743eef2f305c677469a206094c32d01b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heightmapRT: {instanceID: 0}
+  - alphamapRT: {instanceID: 0}
+  - holesRT: {instanceID: 0}
+  - terrainMat: {fileID: 2100000, guid: 2630af3fc1815b743ba051c4293869e8, type: 2}
+  - depthMat: {fileID: 2100000, guid: fa33e102b1ed04b4b9fe3506ebe0764c, type: 2}
+  - blurMat: {fileID: 2100000, guid: 512e5413cb113e240bbd0aaf06503594, type: 2}
+  - clipMat: {fileID: 2100000, guid: 21536be5f6b0ce5438a73a531332850a, type: 2}
+  - ceilMat: {fileID: 2100000, guid: 459f02ed0cc5c624aa886fc1adca27e1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2981396c646d13244b9cb16e4481b866
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - splatMapRT: {instanceID: 0}
+  - splatMat: {fileID: 2100000, guid: 4ea7b289d22eaad438ad37d659570ef7, type: 2}
+  - blurMat: {fileID: 2100000, guid: 512e5413cb113e240bbd0aaf06503594, type: 2}
+  - maxMat: {fileID: 2100000, guid: 671da2f7ea6e5b84697c31a64fc3dcaf, type: 2}
+  - terrainLayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

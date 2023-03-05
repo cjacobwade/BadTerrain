@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8285682b6312d7340943777bdcfdd998
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - addMapRT: {instanceID: 0}
+  - addMat: {fileID: 2100000, guid: 4ea7b289d22eaad438ad37d659570ef7, type: 2}
+  - blitAddMat: {fileID: 2100000, guid: fa94fae1e1bbdbc4789604cbc4b2f4ce, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

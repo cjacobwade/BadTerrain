@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+BadTerrain/BadTerrain/Library/
+BadTerrain/BadTerrain/Temp/
+BadTerrain/BadTerrain/Logs/
+BadTerrain/BadTerrain/obj/
